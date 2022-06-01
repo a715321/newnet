@@ -1,0 +1,11 @@
+<style>
+#header {height:130px; background-color:#f9c81e; text-align:center;padding: 1em}
+.column {float: left; width: 50%; height: 350px; text-align: center;}
+</style>
+
+<body>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UXzRLXw94uQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+The result is that the image will float to the right in the paragraph.
+</p>
+</body>
